@@ -1,0 +1,22 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scribler/sass-lesson.git"
+  },
+  "author": "Steven McIntyre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scribler/sass-lesson/issues"
+  },
+  "homepage": "https://github.com/Scribler/sass-lesson#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
